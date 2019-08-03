@@ -1,0 +1,23 @@
+#social-bar{}
+
+.bar-list{
+	width: 70%;
+	display: flex;
+	list-style-type: none;
+}
+
+.bar-list li{
+	padding: 29px;
+}
+
+.icon-fb{
+	
+}
+
+.icon-ig{
+	
+}
+
+.icon-tw{
+	
+}
